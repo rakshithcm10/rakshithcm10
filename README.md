@@ -1,6 +1,6 @@
 - 👋 Hi, I’m C M Rakshith
 - 👀 I’m interested in Artifical Intelligence and Machine Learning
-- 🌱 I’m currently learning Computer Science Course
+- 🌱 I’m currently learning AI-ML Course
 - 📫 How to reach me appurakshith1@gmail.com
 - 🔭 I’m currently working with Python, Java
 
