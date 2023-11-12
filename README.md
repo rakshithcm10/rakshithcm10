@@ -1,9 +1,4 @@
-- 👋 Hi, I’m C M Rakshith
-- 👀 I’m interested in Artifical Intelligence and Machine Learning
-- 🌱 I’m currently pursing AI-ML course at Manipal School Of Information Science
 - 📫 You can reach me appurakshith1@gmail.com
-- 🔭 I’m currently working with Python, Java
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rakshith__10/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c-m-rakshith-7047551b3/) 
