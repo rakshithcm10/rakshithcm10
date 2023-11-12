@@ -6,8 +6,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rakshithcm10&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rakshithcm10&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithcm10&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rakshithcm10&theme=shades-of-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithcm10&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
  ## You can reach me at appurakshith1@gmail.com
 
