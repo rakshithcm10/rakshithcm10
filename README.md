@@ -1,5 +1,3 @@
-- 📫 You can reach me appurakshith1@gmail.com
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rakshith__10/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c-m-rakshith-7047551b3/) 
 
@@ -10,6 +8,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=rakshithcm10&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakshithcm10&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithcm10&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+ ## You can reach me at appurakshith1@gmail.com
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakshithcm10&theme=radical&no-frame=true&no-bg=true&margin-w=4)
